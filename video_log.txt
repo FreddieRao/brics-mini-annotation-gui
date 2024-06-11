@@ -1,11 +1,10 @@
-Could not understand audio
-name1
-Could not understand audio
-name2
-Could not understand audio
-name1
-play 345
-name2
-extraction in the interactive
-name1
-name2
+audio/01_Cooking, Clearing, Eating/01_Making and Drinking Tea./01_Preparing the Teapot/01.mp3	Grasp the teapot lid.
+audio/01_Cooking, Clearing, Eating/01_Making and Drinking Tea./01_Preparing the Teapot/02.mp3	Lift the lid off the teapot.
+delete
+audio/01_Cooking, Clearing, Eating/01_Making and Drinking Tea./01_Preparing the Teapot/03.mp3	Set the lid aside.
+audio/01_Cooking, Clearing, Eating/01_Making and Drinking Tea./02_Adding Hot Water/04.mp3	Grasp the kettle handle securely.
+audio_new/0.wav	pour water from the cattle into the teapots
+audio/01_Cooking, Clearing, Eating/01_Making and Drinking Tea./02_Adding Hot Water/05.mp3	Pour hot water from the kettle into the teapot.
+delete
+audio/01_Cooking, Clearing, Eating/01_Making and Drinking Tea./02_Adding Hot Water/06.mp3	Reposition the kettle back on the tabletop.
+delete

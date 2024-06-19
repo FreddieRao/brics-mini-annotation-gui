@@ -46,7 +46,7 @@ def record_audio(output_file):
     with open(output_file, "wb") as f:
         f.write(audio.get_wav_data())
     try:
-        text = recognizer.recognize_google(audio)
+        text = recognizer.recognize_google(audio, language = "en-US")
         return text, output_file
     except sr.UnknownValueError:
         return "Could not understand audio", output_file
@@ -65,8 +65,10 @@ def delete_log(log_file='video_log.txt'):
         file.write('delete' + '\n') 
            
 # Main execution logic
-audio_naming_file = 'audio_names.txt'
-log_video_file = 'video_log.txt'
+audio_naming_file = r'D:\code\2024Text2Action\brics-mini-annotation-gui\audio_txt\02_Office Working\11_Filming gestures with GoPro.txt'
+audio_new = 'scene10'
+os.makedirs(audio_new, exist_ok=True)
+log_video_file = 'scene10.txt'
 input_json_file = 'script.json'
 names = load_names(audio_naming_file)
 data_dict = read_json(input_json_file)
@@ -87,7 +89,7 @@ while True:
         name = next(ori_names_iter)
         action_id = int(name.split('/')[-1].split('.')[0])
     elif choice == '2':
-        new_name, output_file = record_audio(f'audio_new/{new_names_count}.wav')
+        new_name, output_file = record_audio(f'{audio_new}/{new_names_count}.wav')
         new_names_count += 1
         log_video(new_name, output_file, log_video_file)
         last_logged_name = new_name

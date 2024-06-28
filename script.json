@@ -1,0 +1,1869 @@
+[
+    {
+        "type_id": 1,
+        "type_name": "Cooking, Clearing, Eating",
+        "scenes": [
+            {
+                "scene_id": 1,
+                "scene_name": "Making and Drinking Tea.",
+                "activities": [
+                    {
+                        "activity_id": 1,
+                        "activity_name": "Preparing the Teapot",
+                        "actions": [
+                            {
+                                "action_id": 1,
+                                "action_name": "Lifting",
+                                "text": "Lift the lid off the teapot."
+                            }
+                        ]
+                    },
+                    {
+                        "activity_id": 2,
+                        "activity_name": "Adding Hot Water",
+                        "actions": [
+                            {
+                                "action_id": 2,
+                                "action_name": "Pouring",
+                                "text": "Pour hot water from the kettle into the teapot."
+                            },
+                            {
+                                "action_id": 3,
+                                "action_name": "Retrieving",
+                                "text": "Retrieve the teapot lid from where it was set aside."
+                            }
+                        ]
+                    },
+                    {
+                        "activity_id": 3,
+                        "activity_name": "Steeping Tea Bag",
+                        "actions": [
+                            {
+                                "action_id": 4,
+                                "action_name": "Opening",
+                                "text": "Open the tea bag box."
+                            },
+                            {
+                                "action_id": 5,
+                                "action_name": "Selecting",
+                                "text": "Select and remove a tea bag from the box."
+                            },
+                            {
+                                "action_id": 6,
+                                "action_name": "Tearing",
+                                "text": "Tear the tea bag wrapper."
+                            },
+                            {
+                                "action_id": 7,
+                                "action_name": "Holding",
+                                "text": "Hold the tea bag by the string."
+                            },
+                            {
+                                "action_id": 8,
+                                "action_name": "Steeping",
+                                "text": "Steep the tea bag in the hot water."
+                            },
+                            {
+                                "action_id": 9,
+                                "action_name": "Releasing",
+                                "text": "Release the tea bag."
+                            },
+                            {
+                                "action_id": 10,
+                                "action_name": "Placing",
+                                "text": "Place the lid back onto the teapot."
+                            }
+                        ]
+                    },
+                    {
+                        "activity_id": 4,
+                        "activity_name": "Pouring Tea",
+                        "actions": [
+                            {
+                                "action_id": 11,
+                                "action_name": "Pouring",
+                                "text": "Pour the tea into the teacup from the kettle."
+                            }
+                        ]
+                    },
+                    {
+                        "activity_id": 5,
+                        "activity_name": "Adding Cream and Sugar",
+                        "actions": [
+                            {
+                                "action_id": 12,
+                                "action_name": "Holding",
+                                "text": "Hold the box or bottle of cream securely."
+                            },
+                            {
+                                "action_id": 13,
+                                "action_name": "Unscrewing",
+                                "text": "Unscrew the cap of the cream container."
+                            },
+                            {
+                                "action_id": 14,
+                                "action_name": "Pouring",
+                                "text": "Pour the cream into the teacup containing the steeped tea."
+                            },
+                            {
+                                "action_id": 15,
+                                "action_name": "Resealing",
+                                "text": "Reseal the cream container by screwing the cap back on."
+                            },
+                            {
+                                "action_id": 16,
+                                "action_name": "Unfastening",
+                                "text": "Unfasten the lid of the sugar canister."
+                            },
+                            {
+                                "action_id": 17,
+                                "action_name": "Grasping",
+                                "text": "Grasp the spoon securely."
+                            },
+                            {
+                                "action_id": 18,
+                                "action_name": "Scooping",
+                                "text": "Scoop a spoonful of sugar with a teaspoon from the sugar canister."
+                            },
+                            {
+                                "action_id": 19,
+                                "action_name": "Adding",
+                                "text": "Add the sugar into the teacup."
+                            },
+                            {
+                                "action_id": 20,
+                                "action_name": "Stirring",
+                                "text": "Stir the tea, cream, and sugar together with the teaspoon until well mixed."
+                            },
+                            {
+                                "action_id": 21,
+                                "action_name": "Setting",
+                                "text": "Set the teaspoon down on the clean surface."
+                            },
+                            {
+                                "action_id": 22,
+                                "action_name": "Fastening",
+                                "text": "Fasten the lid of the sugar canister back on."
+                            }
+                        ]
+                    },
+                    {
+                        "activity_id": 6,
+                        "activity_name": "Adding Lemon Juice",
+                        "actions": [
+                            {
+                                "action_id": 23,
+                                "action_name": "Picking Up",
+                                "text": "Pick up a pre-cut lemon half and a citrus reamer."
+                            },
+                            {
+                                "action_id": 24,
+                                "action_name": "Extracting",
+                                "text": "Extract the juice by pressing and twisting the reamer into the lemon over the teacup."
+                            },
+                            {
+                                "action_id": 25,
+                                "action_name": "Putting Down",
+                                "text": "Put down the lemon and citrus reamer once sufficient juice is extracted."
+                            }
+                        ]
+                    },
+                    {
+                        "activity_id": 7,
+                        "activity_name": "Drinking the Tea",
+                        "actions": [
+                            {
+                                "action_id": 26,
+                                "action_name": "Lifting",
+                                "text": "Lift the teacup carefully by its handle."
+                            },
+                            {
+                                "action_id": 27,
+                                "action_name": "Sipping",
+                                "text": "Take a small, careful sip of the tea."
+                            },
+                            {
+                                "action_id": 28,
+                                "action_name": "Repeating",
+                                "text": "Repeat sipping the tea twice."
+                            },
+                            {
+                                "action_id": 29,
+                                "action_name": "Lowering",
+                                "text": "Lower the teacup back onto the saucer or table gently."
+                            }
+                        ]
+                    },
+                    {
+                        "activity_id": 8,
+                        "activity_name": "Cleaning Up",
+                        "actions": [
+                            {
+                                "action_id": 30,
+                                "action_name": "Picking Up",
+                                "text": "Pick up a piece of kitchen towel."
+                            },
+                            {
+                                "action_id": 31,
+                                "action_name": "Wiping",
+                                "text": "Wipe the teaspoon, teacup, and other used utensils with the kitchen towel."
+                            },
+                            {
+                                "action_id": 32,
+                                "action_name": "Discarding",
+                                "text": "Discard the used kitchen towel into the trash can."
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "scene_id": 2,
+                "scene_name": "Making, Eating and Cleaning Instant Noodle",
+                "activities": [
+                    {
+                        "activity_id": 9,
+                        "activity_name": "Unsealing the Noodles",
+                        "actions": [
+                            {
+                                "action_id": 33,
+                                "action_name": "Unsealing",
+                                "text": "Unseal the instant noodle container by tearing the lid halfway off."
+                            },
+                            {
+                                "action_id": 34,
+                                "action_name": "Removing",
+                                "text": "Remove the veggie bag and oil packet from the container and put them on the table."
+                            }
+                        ]
+                    },
+                    {
+                        "activity_id": 10,
+                        "activity_name": "Preparing the Ingredients",
+                        "actions": [
+                            {
+                                "action_id": 35,
+                                "action_name": "Picking Up",
+                                "text": "Pick up the veggie bag."
+                            },
+                            {
+                                "action_id": 36,
+                                "action_name": "Tearing",
+                                "text": "Tear open the veggie bag by pulling apart the wrapper."
+                            },
+                            {
+                                "action_id": 37,
+                                "action_name": "Emptying",
+                                "text": "Empty the veggie contents into the noodle container by shaking the bag."
+                            },
+                            {
+                                "action_id": 38,
+                                "action_name": "Trashing",
+                                "text": "Trash the empty veggie bag into the trash can."
+                            },
+                            {
+                                "action_id": 39,
+                                "action_name": "Pinching",
+                                "text": "Pinch the oil packet."
+                            },
+                            {
+                                "action_id": 40,
+                                "action_name": "Tearing",
+                                "text": "Tear open the oil packet by pulling apart the wrapper."
+                            },
+                            {
+                                "action_id": 41,
+                                "action_name": "Squeezing",
+                                "text": "Squeeze the oil into the noodle container."
+                            },
+                            {
+                                "action_id": 42,
+                                "action_name": "Disposing",
+                                "text": "Dispose the empty oil packet into the trash can."
+                            },
+                            {
+                                "action_id": 43,
+                                "action_name": "Pulling",
+                                "text": "Pull the tissue upwards out of the tissue box."
+                            },
+                            {
+                                "action_id": 44,
+                                "action_name": "Wiping",
+                                "text": "Wipe the oil off your fingers with the tissue."
+                            },
+                            {
+                                "action_id": 45,
+                                "action_name": "Throwing away",
+                                "text": "Throw away the used tissue into the trash can."
+                            }
+                        ]
+                    },
+                    {
+                        "activity_id": 11,
+                        "activity_name": "Adding Hot Water",
+                        "actions": [
+                            {
+                                "action_id": 46,
+                                "action_name": "Pouring",
+                                "text": "Pour hot water into the noodle container up to the fill line."
+                            },
+                            {
+                                "action_id": 47,
+                                "action_name": "Resealing",
+                                "text": "Reseal the container lid to trap the heat."
+                            },
+                            {
+                                "action_id": 48,
+                                "action_name": "Hovering",
+                                "text": "Hover your hand over the container to feel the temperature."
+                            }
+                        ]
+                    },
+                    {
+                        "activity_id": 12,
+                        "activity_name": "Cooking the Noodles",
+                        "actions": [
+                            {
+                                "action_id": 49,
+                                "action_name": "Waiting",
+                                "text": "Wait for the noodles to cook for the recommended time."
+                            }
+                        ]
+                    },
+                    {
+                        "activity_id": 13,
+                        "activity_name": "Opening the Container",
+                        "actions": [
+                            {
+                                "action_id": 50,
+                                "action_name": "Tearing",
+                                "text": "Tear the lid off the noodle container."
+                            },
+                            {
+                                "action_id": 51,
+                                "action_name": "Disposing",
+                                "text": "Dispose the noodle container lid to the trash can."
+                            },
+                            {
+                                "action_id": 52,
+                                "action_name": "Grabbing",
+                                "text": "Grab the fork"
+                            },
+                            {
+                                "action_id": 53,
+                                "action_name": "Submerging",
+                                "text": "Submerge any floating noodles into the soup with the fork."
+                            },
+                            {
+                                "action_id": 54,
+                                "action_name": "Untangling",
+                                "text": "Untangle the noodles with the fork."
+                            },
+                            {
+                                "action_id": 55,
+                                "action_name": "Stirring",
+                                "text": "Stir the fork to further untangle the noodles."
+                            }
+                        ]
+                    },
+                    {
+                        "activity_id": 14,
+                        "activity_name": "Eating with a Fork",
+                        "actions": [
+                            {
+                                "action_id": 56,
+                                "action_name": "Twirling",
+                                "text": "Twirl the noodles on the fork."
+                            },
+                            {
+                                "action_id": 57,
+                                "action_name": "Delivering",
+                                "text": "Deliver the noodles to your mouth with the fork and eat."
+                            },
+                            {
+                                "action_id": 58,
+                                "action_name": "Shaking",
+                                "text": "Shake off any remaining noodles back into the bowl"
+                            },
+                            {
+                                "action_id": 59,
+                                "action_name": "Putting Down",
+                                "text": "Put the fork down on the table."
+                            }
+                        ]
+                    },
+                    {
+                        "activity_id": 15,
+                        "activity_name": "Preparing Disposable Chopsticks",
+                        "actions": [
+                            {
+                                "action_id": 60,
+                                "action_name": "Grasping",
+                                "text": "Grasp the disposable chopstick wrapper with one hand."
+                            },
+                            {
+                                "action_id": 61,
+                                "action_name": "Tearing",
+                                "text": "Tear open the wrapper by pulling apart the sealed edges."
+                            },
+                            {
+                                "action_id": 62,
+                                "action_name": "Sliding",
+                                "text": "Slide the chopsticks from the wrapper."
+                            },
+                            {
+                                "action_id": 63,
+                                "action_name": "Holding",
+                                "text": "Hold the chopsticks together in one hand."
+                            },
+                            {
+                                "action_id": 64,
+                                "action_name": "Splitting",
+                                "text": "Split the chopsticks apart by gently pulling them in opposite directions."
+                            }
+                        ]
+                    },
+                    {
+                        "activity_id": 16,
+                        "activity_name": "Eating with Chopsticks",
+                        "actions": [
+                            {
+                                "action_id": 65,
+                                "action_name": "Holding",
+                                "text": "Hold the chopsticks in one hand to prepare for eating noodles."
+                            },
+                            {
+                                "action_id": 66,
+                                "action_name": "Lifting",
+                                "text": "Lift the noodles with the chopsticks."
+                            },
+                            {
+                                "action_id": 67,
+                                "action_name": "Splitting",
+                                "text": "Split any entangled noodles with the chopsticks."
+                            },
+                            {
+                                "action_id": 68,
+                                "action_name": "Dipping",
+                                "text": "Dip the noodles back into the soup to absorb more flavor."
+                            },
+                            {
+                                "action_id": 69,
+                                "action_name": "Delivering",
+                                "text": "Deliver the noodles to your mouth with the chopsticks and eat."
+                            },
+                            {
+                                "action_id": 70,
+                                "action_name": "Dropping",
+                                "text": "Drop any remaining noodles on the chopsticks back into the container."
+                            },
+                            {
+                                "action_id": 71,
+                                "action_name": "Putting Down",
+                                "text": "Put the chopsticks back on the table."
+                            }
+                        ]
+                    },
+                    {
+                        "activity_id": 17,
+                        "activity_name": "Drinking the Soup",
+                        "actions": [
+                            {
+                                "action_id": 72,
+                                "action_name": "Holding",
+                                "text": "Hold the spoon."
+                            },
+                            {
+                                "action_id": 73,
+                                "action_name": "Swirling",
+                                "text": "Swirl the spoon in the noodle soup to cool it slightly."
+                            },
+                            {
+                                "action_id": 74,
+                                "action_name": "Skimming",
+                                "text": "Skim off excess oil from the soup with the spoon."
+                            },
+                            {
+                                "action_id": 75,
+                                "action_name": "Disposing",
+                                "text": "Dispose the skimmed oil to the trash can."
+                            },
+                            {
+                                "action_id": 76,
+                                "action_name": "Spooning",
+                                "text": "Spoon some noodle soup into the spoon."
+                            },
+                            {
+                                "action_id": 77,
+                                "action_name": "Carrying",
+                                "text": "Carry the soup to your mouth with the spoon and drink."
+                            },
+                            {
+                                "action_id": 78,
+                                "action_name": "Putting Down",
+                                "text": "Put the spoon down on the table."
+                            }
+                        ]
+                    },
+                    {
+                        "activity_id": 18,
+                        "activity_name": "Finishing the Soup",
+                        "actions": [
+                            {
+                                "action_id": 79,
+                                "action_name": "Holding",
+                                "text": "Hold the ramen container securely with two hands."
+                            },
+                            {
+                                "action_id": 80,
+                                "action_name": "Tilting",
+                                "text": "Tilt the container to sip the remaining soup directly."
+                            },
+                            {
+                                "action_id": 81,
+                                "action_name": "Putting Down",
+                                "text": "Put the container back on the table."
+                            }
+                        ]
+                    },
+                    {
+                        "activity_id": 19,
+                        "activity_name": "Cleaning Utensils",
+                        "actions": [
+                            {
+                                "action_id": 82,
+                                "action_name": "Tearing Off",
+                                "text": "Tear off a piece of kitchen towel."
+                            },
+                            {
+                                "action_id": 83,
+                                "action_name": "Wiping",
+                                "text": "Wipe the chopsticks with the kitchen towel."
+                            },
+                            {
+                                "action_id": 84,
+                                "action_name": "Cleaning",
+                                "text": "Clean the spoon with the kitchen towel."
+                            },
+                            {
+                                "action_id": 85,
+                                "action_name": "Drying",
+                                "text": "Dry the fork with the kitchen towel."
+                            },
+                            {
+                                "action_id": 86,
+                                "action_name": "Discarding",
+                                "text": "Discard the used kitchen towels into the trash can."
+                            }
+                        ]
+                    },
+                    {
+                        "activity_id": 20,
+                        "activity_name": "Emptying the Container",
+                        "actions": [
+                            {
+                                "action_id": 87,
+                                "action_name": "Emptying",
+                                "text": "Empty the remaining contents of the container into the trash can."
+                            },
+                            {
+                                "action_id": 88,
+                                "action_name": "Tying",
+                                "text": "Tie the trash bag closed."
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "scene_id": 3,
+                "scene_name": "Eating and Packing Delivered Food.",
+                "activities": [
+                    {
+                        "activity_id": 21,
+                        "activity_name": "Unpacking the Meal",
+                        "actions": [
+                            {
+                                "action_id": 89,
+                                "action_name": "Opening",
+                                "text": "Open the paper bag by separating the top flaps."
+                            },
+                            {
+                                "action_id": 90,
+                                "action_name": "Taking Out",
+                                "text": "Take out all the food items and utensils from the bag."
+                            },
+                            {
+                                "action_id": 91,
+                                "action_name": "Repositioning",
+                                "text": "Reposition the utensils in front of you."
+                            },
+                            {
+                                "action_id": 92,
+                                "action_name": "Setting Up",
+                                "text": "Set up the food items in a reachable area."
+                            }
+                        ]
+                    },
+                    {
+                        "activity_id": 22,
+                        "activity_name": "Sanitizing Hands",
+                        "actions": [
+                            {
+                                "action_id": 93,
+                                "action_name": "Uncapping",
+                                "text": "Uncap the hand sanitizer bottle."
+                            },
+                            {
+                                "action_id": 94,
+                                "action_name": "Applying",
+                                "text": "Apply a generous amount of sanitizer to your dominant hand."
+                            },
+                            {
+                                "action_id": 95,
+                                "action_name": "Capping",
+                                "text": "Cap the hand sanitizer bottle."
+                            },
+                            {
+                                "action_id": 96,
+                                "action_name": "Putting Down",
+                                "text": "Put the sanitizer bottle down on the table."
+                            },
+                            {
+                                "action_id": 97,
+                                "action_name": "Sanitizing",
+                                "text": "Rub your hands together to sanitize them thoroughly."
+                            }
+                        ]
+                    },
+                    {
+                        "activity_id": 23,
+                        "activity_name": "Drinking Soda",
+                        "actions": [
+                            {
+                                "action_id": 98,
+                                "action_name": "Holding",
+                                "text": "Hold the can of soda."
+                            },
+                            {
+                                "action_id": 99,
+                                "action_name": "Pulling",
+                                "text": "Pull the ring tab to open the soda can."
+                            },
+                            {
+                                "action_id": 100,
+                                "action_name": "Inserting",
+                                "text": "Insert a straw into the soda can."
+                            },
+                            {
+                                "action_id": 101,
+                                "action_name": "Drinking",
+                                "text": "Drink from the soda with the straw."
+                            },
+                            {
+                                "action_id": 102,
+                                "action_name": "Putting Down",
+                                "text": "Put the soda can down."
+                            }
+                        ]
+                    },
+                    {
+                        "activity_id": 24,
+                        "activity_name": "Eating the Burger",
+                        "actions": [
+                            {
+                                "action_id": 103,
+                                "action_name": "Unwrapping",
+                                "text": "Unwrap the burger and set the paper wrapper aside."
+                            },
+                            {
+                                "action_id": 104,
+                                "action_name": "Delivering",
+                                "text": "Deliver the burger to your mouth and take one or several bites."
+                            },
+                            {
+                                "action_id": 105,
+                                "action_name": "Putting Down",
+                                "text": "Put the burger back on the plate."
+                            }
+                        ]
+                    },
+                    {
+                        "activity_id": 25,
+                        "activity_name": "Eating Fries and Ketchup",
+                        "actions": [
+                            {
+                                "action_id": 106,
+                                "action_name": "Squeezing",
+                                "text": "Squeeze some ketchup out from the ketchup bottle onto the plate."
+                            },
+                            {
+                                "action_id": 107,
+                                "action_name": "Gripping",
+                                "text": "Grip a fry with your fingers."
+                            },
+                            {
+                                "action_id": 108,
+                                "action_name": "Dipping",
+                                "text": "Dip the fry into the ketchup."
+                            },
+                            {
+                                "action_id": 109,
+                                "action_name": "Delivering",
+                                "text": "Deliver the fry to your mouth and eat it."
+                            },
+                            {
+                                "action_id": 110,
+                                "action_name": "Sprinkling",
+                                "text": "Sprinkle any remaining salt on your fingers over the plate."
+                            }
+                        ]
+                    },
+                    {
+                        "activity_id": 26,
+                        "activity_name": "Eating Fried Chicken",
+                        "actions": [
+                            {
+                                "action_id": 111,
+                                "action_name": "Peeling Off",
+                                "text": "Peel off the lid of the dipping sauce container."
+                            },
+                            {
+                                "action_id": 112,
+                                "action_name": "Grasping",
+                                "text": "Grasp a piece of fried chicken thigh."
+                            },
+                            {
+                                "action_id": 113,
+                                "action_name": "Dipping",
+                                "text": "Dip the fried chicken thigh into the dipping sauce."
+                            },
+                            {
+                                "action_id": 114,
+                                "action_name": "Rotating",
+                                "text": "Rotate the chicken thigh as you eat it to get all sides."
+                            }
+                        ]
+                    },
+                    {
+                        "activity_id": 27,
+                        "activity_name": "Cleaning Up",
+                        "actions": [
+                            {
+                                "action_id": 115,
+                                "action_name": "Picking",
+                                "text": "Pick up one piece of napkin."
+                            },
+                            {
+                                "action_id": 116,
+                                "action_name": "Unfolding",
+                                "text": "Unfold the napkin."
+                            },
+                            {
+                                "action_id": 117,
+                                "action_name": "Wiping",
+                                "text": "Wipe any crumbs or spills off the table with a napkin."
+                            },
+                            {
+                                "action_id": 118,
+                                "action_name": "Scrunching",
+                                "text": "Scrunch the napkin into a ball."
+                            },
+                            {
+                                "action_id": 119,
+                                "action_name": "Dropping",
+                                "text": "Drop the napkin ball into the trash can."
+                            }
+                        ]
+                    },
+                    {
+                        "activity_id": 28,
+                        "activity_name": "Eating the Pudding",
+                        "actions": [
+                            {
+                                "action_id": 120,
+                                "action_name": "Grasping",
+                                "text": "Grasp the jar containing the pudding."
+                            },
+                            {
+                                "action_id": 121,
+                                "action_name": "Pinching",
+                                "text": "Pinch the rubber band around the pudding jar."
+                            },
+                            {
+                                "action_id": 122,
+                                "action_name": "Stretching",
+                                "text": "Stretch the rubber band and slide it off the jar."
+                            },
+                            {
+                                "action_id": 123,
+                                "action_name": "Removing",
+                                "text": "Remove the cloth covering the jar to reveal the pudding."
+                            },
+                            {
+                                "action_id": 124,
+                                "action_name": "Holding",
+                                "text": "Hold the pudding jar over a plate."
+                            },
+                            {
+                                "action_id": 125,
+                                "action_name": "Inverting",
+                                "text": "Invert the pudding jar to dump the pudding onto the plate."
+                            },
+                            {
+                                "action_id": 126,
+                                "action_name": "Shaking",
+                                "text": "Shake the jar to ensure all the pudding is transferred to the plate."
+                            },
+                            {
+                                "action_id": 127,
+                                "action_name": "Scooping",
+                                "text": "Scoop with a spoon to ensure all the puddings are transferred."
+                            },
+                            {
+                                "action_id": 128,
+                                "action_name": "Putting Down",
+                                "text": "Put down the pudding jar."
+                            }
+                        ]
+                    },
+                    {
+                        "activity_id": 29,
+                        "activity_name": "Consuming the Pudding",
+                        "actions": [
+                            {
+                                "action_id": 129,
+                                "action_name": "Gripping",
+                                "text": "Grip the pudding spoon."
+                            },
+                            {
+                                "action_id": 130,
+                                "action_name": "Scooping",
+                                "text": "Scoop a piece of pudding."
+                            },
+                            {
+                                "action_id": 131,
+                                "action_name": "Delivering",
+                                "text": "Deliver the pudding to your mouth and eat it."
+                            },
+                            {
+                                "action_id": 132,
+                                "action_name": "Putting Down",
+                                "text": "Put down the pudding spoon."
+                            }
+                        ]
+                    },
+                    {
+                        "activity_id": 30,
+                        "activity_name": "Storing Remaining Pudding",
+                        "actions": [
+                            {
+                                "action_id": 133,
+                                "action_name": "Covering",
+                                "text": "Cover the remaining pudding with the pudding jar."
+                            },
+                            {
+                                "action_id": 134,
+                                "action_name": "Flipping",
+                                "text": "Flip the pudding jar and plate to transfer the remaining pudding back into the jar."
+                            },
+                            {
+                                "action_id": 135,
+                                "action_name": "Lifting",
+                                "text": "Lift the piece of cloth off the table."
+                            },
+                            {
+                                "action_id": 136,
+                                "action_name": "Covering",
+                                "text": "Cover the pudding jar with the cloth."
+                            },
+                            {
+                                "action_id": 137,
+                                "action_name": "Gripping",
+                                "text": "Grip the rubber band."
+                            },
+                            {
+                                "action_id": 138,
+                                "action_name": "Binding",
+                                "text": "Bind the pudding jar with the rubber band."
+                            },
+                            {
+                                "action_id": 139,
+                                "action_name": "Putting Down",
+                                "text": "Put the pudding jar back on the table."
+                            }
+                        ]
+                    },
+                    {
+                        "activity_id": 31,
+                        "activity_name": "Storing Remaining Food",
+                        "actions": [
+                            {
+                                "action_id": 140,
+                                "action_name": "Gathering",
+                                "text": "Gather the remaining chicken thigh and fries back into the food box."
+                            },
+                            {
+                                "action_id": 141,
+                                "action_name": "Wrapping",
+                                "text": "Wrap the remaining burger with the paper wrapper."
+                            },
+                            {
+                                "action_id": 142,
+                                "action_name": "Closing",
+                                "text": "Close the burger box."
+                            }
+                        ]
+                    },
+                    {
+                        "activity_id": 32,
+                        "activity_name": "Cleaning Up Drink and Food Items",
+                        "actions": [
+                            {
+                                "action_id": 143,
+                                "action_name": "Pulling Out",
+                                "text": "Pull out the straw from the soda can."
+                            },
+                            {
+                                "action_id": 144,
+                                "action_name": "Wedging",
+                                "text": "Wedge the used straw into the soda can opening."
+                            },
+                            {
+                                "action_id": 145,
+                                "action_name": "Gathering",
+                                "text": "Gather the remaining food items and place them back into the paper bag."
+                            },
+                            {
+                                "action_id": 146,
+                                "action_name": "Folding",
+                                "text": "Fold the top of the paper bag to close it."
+                            }
+                        ]
+                    },
+                    {
+                        "activity_id": 33,
+                        "activity_name": "Cleaning Hands",
+                        "actions": [
+                            {
+                                "action_id": 147,
+                                "action_name": "Cleaning",
+                                "text": "Clean your hands with hand sanitizer."
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "scene_id": 4,
+                "scene_name": "Making an open egg and spam sandwich.",
+                "activities": [
+                    {
+                        "activity_id": 34,
+                        "activity_name": "Preparing the Bread",
+                        "actions": [
+                            {
+                                "action_id": 148,
+                                "action_name": "Untwisting",
+                                "text": "Untwist the metal twist tie to unseal the bread bag."
+                            },
+                            {
+                                "action_id": 149,
+                                "action_name": "Taking Out",
+                                "text": "Take out a slice of bread."
+                            },
+                            {
+                                "action_id": 150,
+                                "action_name": "Twisting",
+                                "text": "Twist the metal twist tie to reseal the bread bag."
+                            },
+                            {
+                                "action_id": 151,
+                                "action_name": "Inserting",
+                                "text": "Insert the bread slice into the toaster."
+                            },
+                            {
+                                "action_id": 152,
+                                "action_name": "Tuning",
+                                "text": "Tune the temperature of the toaster by rotating the knob to the highest degree."
+                            },
+                            {
+                                "action_id": 153,
+                                "action_name": "Pressing",
+                                "text": "Press the toaster lever to start toasting the bread."
+                            },
+                            {
+                                "action_id": 154,
+                                "action_name": "Placing",
+                                "text": "Place the toasted bread on a plate."
+                            }
+                        ]
+                    },
+                    {
+                        "activity_id": 35,
+                        "activity_name": "Preparing the Peanut Butter",
+                        "actions": [
+                            {
+                                "action_id": 155,
+                                "action_name": "Unscrewing",
+                                "text": "Unscrew the lid of the peanut butter jar."
+                            },
+                            {
+                                "action_id": 156,
+                                "action_name": "Taking Out",
+                                "text": "Take out a butter knife from the knife holder."
+                            },
+                            {
+                                "action_id": 157,
+                                "action_name": "Inserting",
+                                "text": "Insert the butter knife into the peanut butter jar."
+                            },
+                            {
+                                "action_id": 158,
+                                "action_name": "Spreading",
+                                "text": "Try to spread the peanut butter evenly on the toasted bread."
+                            },
+                            {
+                                "action_id": 159,
+                                "action_name": "Wiping",
+                                "text": "Wipe the jam spatula clean with a kitchen towel."
+                            },
+                            {
+                                "action_id": 160,
+                                "action_name": "Inserting",
+                                "text": "Insert the butter knife back into the knife holder."
+                            }
+                        ]
+                    },
+                    {
+                        "activity_id": 36,
+                        "activity_name": "Preparing the Spam",
+                        "actions": [
+                            {
+                                "action_id": 161,
+                                "action_name": "Grasping",
+                                "text": "Grasp the can of spam on the table."
+                            },
+                            {
+                                "action_id": 162,
+                                "action_name": "Tearing Off",
+                                "text": "Tear off the lid of the spam can to reveal the contents."
+                            },
+                            {
+                                "action_id": 163,
+                                "action_name": "Lifting",
+                                "text": "Lift the spam can above the cutting board."
+                            },
+                            {
+                                "action_id": 164,
+                                "action_name": "Upturning",
+                                "text": "Upturn the spam can to release the spam onto the cutting board."
+                            },
+                            {
+                                "action_id": 165,
+                                "action_name": "Knocking",
+                                "text": "Knock the bottom of the can to ensure the spam is fully released."
+                            },
+                            {
+                                "action_id": 166,
+                                "action_name": "Gripping",
+                                "text": "Grip a knife and fork."
+                            },
+                            {
+                                "action_id": 167,
+                                "action_name": "Thrusting",
+                                "text": "Thrust the fork into the spam to stabilize it."
+                            },
+                            {
+                                "action_id": 168,
+                                "action_name": "Slicing",
+                                "text": "Slice the spam into even pieces."
+                            },
+                            {
+                                "action_id": 169,
+                                "action_name": "Detaching",
+                                "text": "Detach the fork from the last slice of spam."
+                            }
+                        ]
+                    },
+                    {
+                        "activity_id": 37,
+                        "activity_name": "Preparing the Butter",
+                        "actions": [
+                            {
+                                "action_id": 170,
+                                "action_name": "Unwrapping",
+                                "text": "Unwrap a piece of butter."
+                            },
+                            {
+                                "action_id": 171,
+                                "action_name": "Grasping",
+                                "text": "Grasp the butter knife."
+                            },
+                            {
+                                "action_id": 172,
+                                "action_name": "Slicing",
+                                "text": "Slice a piece of butter with the knife."
+                            },
+                            {
+                                "action_id": 173,
+                                "action_name": "Placing",
+                                "text": "Place a pan on the stove."
+                            },
+                            {
+                                "action_id": 174,
+                                "action_name": "Switching On",
+                                "text": "Pretend to switch on the stove."
+                            },
+                            {
+                                "action_id": 175,
+                                "action_name": "Adding",
+                                "text": "Adding the butter to the pan."
+                            },
+                            {
+                                "action_id": 176,
+                                "action_name": "Spreading",
+                                "text": "Spread the butter on the pan to melt it."
+                            },
+                            {
+                                "action_id": 177,
+                                "action_name": "Putting Down",
+                                "text": "Put down the butter knife."
+                            }
+                        ]
+                    },
+                    {
+                        "activity_id": 38,
+                        "activity_name": "Frying the Spam",
+                        "actions": [
+                            {
+                                "action_id": 178,
+                                "action_name": "Taking Out",
+                                "text": "Take out a pair of tongs from the utensil holder."
+                            },
+                            {
+                                "action_id": 179,
+                                "action_name": "Picking Up",
+                                "text": "Pick up a piece of spam using the tongs."
+                            },
+                            {
+                                "action_id": 180,
+                                "action_name": "Transferring",
+                                "text": "Transfer the spam to the pan with the tongs to fry."
+                            },
+                            {
+                                "action_id": 181,
+                                "action_name": "Flipping",
+                                "text": "Flip the spam with the tongs to ensure both sides are cooked."
+                            },
+                            {
+                                "action_id": 182,
+                                "action_name": "Stacking",
+                                "text": "Stack the fried spam on top of the bread."
+                            }
+                        ]
+                    },
+                    {
+                        "activity_id": 39,
+                        "activity_name": "Preparing the Egg",
+                        "actions": [
+                            {
+                                "action_id": 183,
+                                "action_name": "Opening",
+                                "text": "Open the egg carton."
+                            },
+                            {
+                                "action_id": 184,
+                                "action_name": "Taking Out",
+                                "text": "Take out an egg from the carton."
+                            },
+                            {
+                                "action_id": 185,
+                                "action_name": "Moving",
+                                "text": "Move a bowl to be in front of you."
+                            },
+                            {
+                                "action_id": 186,
+                                "action_name": "Cracking",
+                                "text": "Crack the egg by tapping it against the edge of the bowl and split the shell."
+                            },
+                            {
+                                "action_id": 187,
+                                "action_name": "Discarding",
+                                "text": "Discard the eggshells into the trash can."
+                            },
+                            {
+                                "action_id": 188,
+                                "action_name": "Closing",
+                                "text": "Close the egg carton."
+                            },
+                            {
+                                "action_id": 189,
+                                "action_name": "Rotating",
+                                "text": "Rotate the pepper grinder to add black pepper to the egg."
+                            },
+                            {
+                                "action_id": 190,
+                                "action_name": "Shaking",
+                                "text": "Shake the salt container to add salt to the egg."
+                            },
+                            {
+                                "action_id": 191,
+                                "action_name": "Beating",
+                                "text": "Beat the egg in the bowl with a fork, blending the yolk and white thoroughly."
+                            },
+                            {
+                                "action_id": 192,
+                                "action_name": "Pouring",
+                                "text": "Pour the beaten egg into the heated pan."
+                            },
+                            {
+                                "action_id": 193,
+                                "action_name": "Grasping",
+                                "text": "Grasp a spatula."
+                            },
+                            {
+                                "action_id": 194,
+                                "action_name": "Scrambling",
+                                "text": "Scramble the egg by moving the spatula around the pan."
+                            },
+                            {
+                                "action_id": 195,
+                                "action_name": "Poking",
+                                "text": "Poke the egg with the spatula to test if it's cooked."
+                            },
+                            {
+                                "action_id": 196,
+                                "action_name": "Stir-Frying",
+                                "text": "Stir-fry the egg."
+                            },
+                            {
+                                "action_id": 197,
+                                "action_name": "Sliding",
+                                "text": "Slide the cooked egg on top of the stacked bread and spam."
+                            },
+                            {
+                                "action_id": 198,
+                                "action_name": "Putting Down",
+                                "text": "Put down the spatula."
+                            },
+                            {
+                                "action_id": 199,
+                                "action_name": "Switching Off",
+                                "text": "Switch off the stove."
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "scene_id": 5,
+                "scene_name": "Making a Bowl of Salad.",
+                "activities": [
+                    {
+                        "activity_id": 40,
+                        "activity_name": "Washing and Preparing Ingredients",
+                        "actions": [
+                            {
+                                "action_id": 200,
+                                "action_name": "Turning",
+                                "text": "Turn the faucet on."
+                            },
+                            {
+                                "action_id": 201,
+                                "action_name": "Washing",
+                                "text": "Thoroughly wash the lettuce leaves under the faucet."
+                            },
+                            {
+                                "action_id": 202,
+                                "action_name": "Rinsing",
+                                "text": "Rinse the apple under running water."
+                            },
+                            {
+                                "action_id": 203,
+                                "action_name": "Turning",
+                                "text": "Turn the faucet off."
+                            },
+                            {
+                                "action_id": 204,
+                                "action_name": "Peeling",
+                                "text": "Peel the lettuce leaves one by one, placing them into a bowl."
+                            },
+                            {
+                                "action_id": 205,
+                                "action_name": "Soaking",
+                                "text": "Soak the lettuce in a bowl of cold water."
+                            },
+                            {
+                                "action_id": 206,
+                                "action_name": "Draining",
+                                "text": "Drain the lettuce leaves in a colander."
+                            },
+                            {
+                                "action_id": 207,
+                                "action_name": "Shrinking",
+                                "text": "Gently shrink the lettuce leaves with your hands to wring out the water."
+                            },
+                            {
+                                "action_id": 208,
+                                "action_name": "Tearing",
+                                "text": "Tear the lettuce leaves into square pieces ."
+                            }
+                        ]
+                    },
+                    {
+                        "activity_id": 41,
+                        "activity_name": "Preparing Fruits",
+                        "actions": [
+                            {
+                                "action_id": 209,
+                                "action_name": "Unsheathing",
+                                "text": "Unsheathe a fruit knife."
+                            },
+                            {
+                                "action_id": 210,
+                                "action_name": "Shredding",
+                                "text": "Shred the lettuce leaves into smaller pieces with the knife."
+                            },
+                            {
+                                "action_id": 211,
+                                "action_name": "Tilting",
+                                "text": "Tilt the chopping board to transfer the shredded lettuce to the salad bowl."
+                            },
+                            {
+                                "action_id": 212,
+                                "action_name": "Stripping",
+                                "text": "Strip a banana of its peel."
+                            },
+                            {
+                                "action_id": 213,
+                                "action_name": "Laying",
+                                "text": "Lay the banana on the chopping board."
+                            },
+                            {
+                                "action_id": 214,
+                                "action_name": "Slicing",
+                                "text": "Slice the banana into three pieces."
+                            },
+                            {
+                                "action_id": 215,
+                                "action_name": "Transferring",
+                                "text": "Transfer the sliced banana into the salad bowl."
+                            },
+                            {
+                                "action_id": 216,
+                                "action_name": "Peeling",
+                                "text": "Peel the apple with a peeler."
+                            },
+                            {
+                                "action_id": 217,
+                                "action_name": "Placing",
+                                "text": "Place the apple on the chopping board."
+                            },
+                            {
+                                "action_id": 218,
+                                "action_name": "Picking Up",
+                                "text": "Pick up the knife."
+                            },
+                            {
+                                "action_id": 219,
+                                "action_name": "Chopping",
+                                "text": "Chop the apple into halves."
+                            },
+                            {
+                                "action_id": 220,
+                                "action_name": "Cutting",
+                                "text": "Cut the apple into smaller segments."
+                            },
+                            {
+                                "action_id": 221,
+                                "action_name": "Dicing",
+                                "text": "Dice the apple into smaller pieces."
+                            },
+                            {
+                                "action_id": 222,
+                                "action_name": "Mincing",
+                                "text": "Mince the apple pieces into small dice sizes."
+                            },
+                            {
+                                "action_id": 223,
+                                "action_name": "Squashing",
+                                "text": "Squash the apple dice with the flat side of the knife."
+                            },
+                            {
+                                "action_id": 224,
+                                "action_name": "Scraping",
+                                "text": "Scrape the squashed apple from the chopping board into the salad bowl."
+                            },
+                            {
+                                "action_id": 225,
+                                "action_name": "Putting Down",
+                                "text": "Put down the knife."
+                            }
+                        ]
+                    },
+                    {
+                        "activity_id": 42,
+                        "activity_name": "Preparing Nuts and Cheese",
+                        "actions": [
+                            {
+                                "action_id": 226,
+                                "action_name": "Unzipping",
+                                "text": "Unzip the zipped bag with nuts"
+                            },
+                            {
+                                "action_id": 227,
+                                "action_name": "Taking Out",
+                                "text": "Take out nuts from the bag and place them on the chopping board."
+                            },
+                            {
+                                "action_id": 228,
+                                "action_name": "Zipping",
+                                "text": "Zip the bag closed."
+                            },
+                            {
+                                "action_id": 229,
+                                "action_name": "Crushing",
+                                "text": "Crush the nuts with the flat side of the knife."
+                            },
+                            {
+                                "action_id": 230,
+                                "action_name": "Sweeping",
+                                "text": "Sweep the crushed nuts from the chopping board into the mortar."
+                            },
+                            {
+                                "action_id": 231,
+                                "action_name": "Picking Up",
+                                "text": "Pick up the pestle."
+                            },
+                            {
+                                "action_id": 232,
+                                "action_name": "Mashing",
+                                "text": "Mash the nuts with a pestle."
+                            },
+                            {
+                                "action_id": 233,
+                                "action_name": "Grinding",
+                                "text": "Grind the mashed nuts into smaller chunks."
+                            },
+                            {
+                                "action_id": 234,
+                                "action_name": "Pounding",
+                                "text": "Pound the ground nuts into a fine consistency with the mortar pounder."
+                            },
+                            {
+                                "action_id": 235,
+                                "action_name": "Putting Down",
+                                "text": "Put down the pestle."
+                            },
+                            {
+                                "action_id": 236,
+                                "action_name": "Grating",
+                                "text": "Grate cheese with a cheese grater."
+                            },
+                            {
+                                "action_id": 237,
+                                "action_name": "Picking",
+                                "text": "Pick two grapes from the bunk and drop them into the salad bowl."
+                            }
+                        ]
+                    },
+                    {
+                        "activity_id": 43,
+                        "activity_name": "Mixing and Dressing the Salad",
+                        "actions": [
+                            {
+                                "action_id": 238,
+                                "action_name": "Mixing",
+                                "text": "In a large salad bowl, combine all the chopped ingredients. Use clean hands to toss the ingredients gently."
+                            },
+                            {
+                                "action_id": 239,
+                                "action_name": "Drizzling",
+                                "text": "Drizzle the dressing over the salad."
+                            },
+                            {
+                                "action_id": 240,
+                                "action_name": "Tossing",
+                                "text": "Toss the salad in the bowl to coat all the ingredients thoroughly with the dressing."
+                            },
+                            {
+                                "action_id": 241,
+                                "action_name": "Spearing",
+                                "text": "Spear a variety of ingredients with a fork and bring them to your mouth to eat."
+                            }
+                        ]
+                    },
+                    {
+                        "activity_id": 44,
+                        "activity_name": "Cleaning the Table",
+                        "actions": [
+                            {
+                                "action_id": 242,
+                                "action_name": "Scraping",
+                                "text": "Scrape any leftover salad from the bowl into the trash can."
+                            },
+                            {
+                                "action_id": 243,
+                                "action_name": "Clearing",
+                                "text": "Clear the table by disposing of any remaining food."
+                            },
+                            {
+                                "action_id": 244,
+                                "action_name": "Mopping",
+                                "text": "Mop the table surface with a damp cloth or mop."
+                            },
+                            {
+                                "action_id": 245,
+                                "action_name": "Drying",
+                                "text": "Dry your hands with a hand towel."
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "scene_id": 6,
+                "scene_name": "Baking and Frosting a Bread.",
+                "activities": [
+                    {
+                        "activity_id": 45,
+                        "activity_name": "Preparing the Flour",
+                        "actions": [
+                            {
+                                "action_id": 246,
+                                "action_name": "Stacking",
+                                "text": "Stack the sieve on top of a bowl."
+                            },
+                            {
+                                "action_id": 247,
+                                "action_name": "Pouring",
+                                "text": "Pour the flour into the sieve."
+                            },
+                            {
+                                "action_id": 248,
+                                "action_name": "Shaking",
+                                "text": "Gently shake the sieve to sift the remaining flour."
+                            },
+                            {
+                                "action_id": 249,
+                                "action_name": "Tapping",
+                                "text": "Tap the edge of the sieve to allow the flour to fall evenly into the bowl."
+                            },
+                            {
+                                "action_id": 250,
+                                "action_name": "Removing",
+                                "text": "Remove the sieve from the bowl."
+                            }
+                        ]
+                    },
+                    {
+                        "activity_id": 46,
+                        "activity_name": "Preparing the Ingredients",
+                        "actions": [
+                            {
+                                "action_id": 251,
+                                "action_name": "Uncapping",
+                                "text": "Uncap a bottle of water."
+                            },
+                            {
+                                "action_id": 252,
+                                "action_name": "Measuring",
+                                "text": "Use a measuring cup to measure a cup of water."
+                            },
+                            {
+                                "action_id": 253,
+                                "action_name": "Capping",
+                                "text": "Cap the water bottle."
+                            },
+                            {
+                                "action_id": 254,
+                                "action_name": "Pouring",
+                                "text": "Pour the water into the mixing bowl."
+                            },
+                            {
+                                "action_id": 255,
+                                "action_name": "Scooping",
+                                "text": "Scoop a \u00bc spoonful of yeast."
+                            },
+                            {
+                                "action_id": 256,
+                                "action_name": "Adding",
+                                "text": "Add the yeast to the mixing bowl."
+                            }
+                        ]
+                    },
+                    {
+                        "activity_id": 47,
+                        "activity_name": "Mixing and Kneading the Dough",
+                        "actions": [
+                            {
+                                "action_id": 257,
+                                "action_name": "Stirring",
+                                "text": "Stir the ingredients with a spatula."
+                            },
+                            {
+                                "action_id": 258,
+                                "action_name": "Beating",
+                                "text": "Beat the mixture with the spatula, using vigorous circular hand motions to fully incorporate air and blend the ingredients smoothly."
+                            },
+                            {
+                                "action_id": 259,
+                                "action_name": "Pinching",
+                                "text": "Pinch some extra flour from the flour bag."
+                            },
+                            {
+                                "action_id": 260,
+                                "action_name": "Scattering",
+                                "text": "Gently scatter the extra flour on the chopping board."
+                            },
+                            {
+                                "action_id": 261,
+                                "action_name": "Moving",
+                                "text": "Move the dough to the floured chopping board."
+                            },
+                            {
+                                "action_id": 262,
+                                "action_name": "Scraping",
+                                "text": "Scrape down the sides of the mixing bowl with a dough scraper to gather the dough."
+                            },
+                            {
+                                "action_id": 263,
+                                "action_name": "Kneading",
+                                "text": "Knead the dough on the floured surface."
+                            },
+                            {
+                                "action_id": 264,
+                                "action_name": "Pushing",
+                                "text": "Push the dough with the heels of your hands into a flat shape."
+                            },
+                            {
+                                "action_id": 265,
+                                "action_name": "Folding",
+                                "text": "Fold the dough over itself."
+                            },
+                            {
+                                "action_id": 266,
+                                "action_name": "Repeating",
+                                "text": "Repeat this push and fold motion 5 times."
+                            },
+                            {
+                                "action_id": 267,
+                                "action_name": "Patting",
+                                "text": "Gently pat the dough to even out the surface and remove any air pockets."
+                            },
+                            {
+                                "action_id": 268,
+                                "action_name": "Stretching",
+                                "text": "Stretch and fold the dough to help develop structure and trap air bubbles."
+                            },
+                            {
+                                "action_id": 269,
+                                "action_name": "Lifting",
+                                "text": "Lift the stretched dough from one side."
+                            },
+                            {
+                                "action_id": 270,
+                                "action_name": "Folding",
+                                "text": "Fold the lifted dough over to the opposite side."
+                            },
+                            {
+                                "action_id": 271,
+                                "action_name": "Widening",
+                                "text": "Widen the dough by gently stretching it with both hands."
+                            }
+                        ]
+                    },
+                    {
+                        "activity_id": 48,
+                        "activity_name": "Shaping the Dough",
+                        "actions": [
+                            {
+                                "action_id": 272,
+                                "action_name": "Dividing",
+                                "text": "Divide the dough into two portions."
+                            },
+                            {
+                                "action_id": 273,
+                                "action_name": "Shaping",
+                                "text": "Shape the first portion into a roll."
+                            },
+                            {
+                                "action_id": 274,
+                                "action_name": "Rolling",
+                                "text": "Roll the dough into a pancake shape with a rolling pin."
+                            },
+                            {
+                                "action_id": 275,
+                                "action_name": "Molding",
+                                "text": "Mold the pancake into a straw shape by rolling the pancake."
+                            },
+                            {
+                                "action_id": 276,
+                                "action_name": "Crimping",
+                                "text": "Crimp the ends of the straw to seal them and add texture."
+                            },
+                            {
+                                "action_id": 277,
+                                "action_name": "Transferring",
+                                "text": "Transfer the first portion to the baking tray."
+                            },
+                            {
+                                "action_id": 278,
+                                "action_name": "Tucking",
+                                "text": "Tuck the edges of the second portion to form smooth, tight shapes."
+                            },
+                            {
+                                "action_id": 279,
+                                "action_name": "Scoring",
+                                "text": "Score the surface of the dough with shallow cuts using a sharp knife."
+                            },
+                            {
+                                "action_id": 280,
+                                "action_name": "Compressing",
+                                "text": "Compress the second portion into the empty container."
+                            }
+                        ]
+                    },
+                    {
+                        "activity_id": 49,
+                        "activity_name": "Baking the Bread",
+                        "actions": [
+                            {
+                                "action_id": 281,
+                                "action_name": "Switching On",
+                                "text": "Switch on the oven."
+                            },
+                            {
+                                "action_id": 282,
+                                "action_name": "Opening",
+                                "text": "Open the oven door."
+                            },
+                            {
+                                "action_id": 283,
+                                "action_name": "Sticking",
+                                "text": "Stick a hand into the oven to check the temperature."
+                            },
+                            {
+                                "action_id": 284,
+                                "action_name": "Transferring",
+                                "text": "Transfer the baking tray into the oven."
+                            },
+                            {
+                                "action_id": 285,
+                                "action_name": "Shutting",
+                                "text": "Shut the oven door."
+                            },
+                            {
+                                "action_id": 286,
+                                "action_name": "Opening",
+                                "text": "Open the oven door."
+                            },
+                            {
+                                "action_id": 287,
+                                "action_name": "Wearing",
+                                "text": "Wear oven mitts."
+                            },
+                            {
+                                "action_id": 288,
+                                "action_name": "Pulling Out",
+                                "text": "Pull out the baking tray from the oven."
+                            },
+                            {
+                                "action_id": 289,
+                                "action_name": "Shutting",
+                                "text": "Shut the oven door."
+                            },
+                            {
+                                "action_id": 290,
+                                "action_name": "Tapping",
+                                "text": "Tap the bottom of the loaf to check for doneness."
+                            },
+                            {
+                                "action_id": 291,
+                                "action_name": "Cooling",
+                                "text": "Waving your hands around the loaves for even cooling."
+                            }
+                        ]
+                    },
+                    {
+                        "activity_id": 50,
+                        "activity_name": "Frosting the Bread",
+                        "actions": [
+                            {
+                                "action_id": 292,
+                                "action_name": "Grasping",
+                                "text": "Grasp a knife for sawing."
+                            },
+                            {
+                                "action_id": 293,
+                                "action_name": "Sawing",
+                                "text": "Saw a small piece off the bread with the sawing knife."
+                            },
+                            {
+                                "action_id": 294,
+                                "action_name": "Placing",
+                                "text": "Place the bread on a rotating cake stand."
+                            },
+                            {
+                                "action_id": 295,
+                                "action_name": "Rotating",
+                                "text": "Rotate the cake stand to ensure it moves smoothly."
+                            },
+                            {
+                                "action_id": 296,
+                                "action_name": "Applying",
+                                "text": "Apply a layer of frosting on the top of the bread with the piping bag."
+                            },
+                            {
+                                "action_id": 297,
+                                "action_name": "Holding",
+                                "text": "Hold a spatula for spreading frosting."
+                            },
+                            {
+                                "action_id": 298,
+                                "action_name": "Spreading",
+                                "text": "Spread frosting along the sides of the bread."
+                            },
+                            {
+                                "action_id": 299,
+                                "action_name": "Turning",
+                                "text": "Turn the cake stand while spreading as needed for even coverage."
+                            },
+                            {
+                                "action_id": 300,
+                                "action_name": "Smoothing",
+                                "text": "Smooth the frosting on the bread's surface with the spatula."
+                            },
+                            {
+                                "action_id": 301,
+                                "action_name": "Putting Down",
+                                "text": "Put down the spatula."
+                            },
+                            {
+                                "action_id": 302,
+                                "action_name": "Gripping",
+                                "text": "Grip the piping bag."
+                            },
+                            {
+                                "action_id": 303,
+                                "action_name": "Decorating",
+                                "text": "Squeeze the piping bag to add circular decorations."
+                            },
+                            {
+                                "action_id": 304,
+                                "action_name": "Squeezing",
+                                "text": "Squeeze the piping bag to add wave-like decorations."
+                            },
+                            {
+                                "action_id": 305,
+                                "action_name": "Putting Down",
+                                "text": "Put down the piping bag."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

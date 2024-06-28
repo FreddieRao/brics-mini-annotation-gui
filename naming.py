@@ -65,10 +65,10 @@ def delete_log(log_file='video_log.txt'):
         file.write('delete' + '\n') 
            
 # Main execution logic
-audio_naming_file = '/Users/alexj/Documents/brics-mini-annotation-gui/audio_txt/02_Office Working/09_Testing the laptop.txt'
-audio_new = 'scene08'
+audio_naming_file = r'D:\code\2024Text2Action\brics-mini-annotation-gui\audio_txt\02_Office Working\10_Testing Tablet DigitalPen Phone SmartWatch Earphone on Charging Station.txt'
+audio_new = 'scene09'
 os.makedirs(audio_new, exist_ok=True)
-log_video_file = 'scene08.txt'
+log_video_file = 'scene09.txt'
 input_json_file = 'script.json'
 names = load_names(audio_naming_file)
 data_dict = read_json(input_json_file)
